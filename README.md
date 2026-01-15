@@ -15,7 +15,7 @@ Hi, I'm Yash 👋  <br><br>I'm an engineering student with a strong interest in 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashtiwari101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
